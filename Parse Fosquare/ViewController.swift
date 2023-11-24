@@ -20,29 +20,6 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view.
         
-//
-//        let parseObject = PFObject(className: "Araba")
-//        parseObject["marka"] = "Ferrari"
-//        parseObject["model"] = "SF90"
-//        parseObject["yil"]   = "2022"
-//
-//        parseObject.saveInBackground { bol, eror in
-//            if bol {
-//                print("saved !")
-//            }
-//            else {
-//                print("else ")
-//            }
-//        }
-        
-//        let que = PFQuery(className: "Araba")
-//        do{
-//
-//
-//        }
-//        catch {
-//            print("hata catch")
-//        }
         
         
     }
