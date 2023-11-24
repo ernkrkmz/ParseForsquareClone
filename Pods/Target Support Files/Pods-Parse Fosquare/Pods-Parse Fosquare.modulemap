@@ -1,0 +1,6 @@
+framework module Pods_Parse_Fosquare {
+  umbrella header "Pods-Parse Fosquare-umbrella.h"
+
+  export *
+  module * { export * }
+}
